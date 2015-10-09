@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 from distutils.core import setup
 
 setup(
@@ -21,6 +23,6 @@ setup(
         "Topic :: Software Development :: Libraries :: Python Modules",
         "Topic :: Utilities"
         ],
-    long_description = open('./README.md').read(),
+    long_description = open('./README.txt').read(),
     license = open('./LICENSE').read()
 )
