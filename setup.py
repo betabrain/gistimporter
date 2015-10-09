@@ -4,6 +4,7 @@ from distutils.core import setup
 
 setup(
     name = "gistimporter",
+    packages = ["gistimporter"],
     version = "1.0.0",
     description = "An importer for Python 3.x to allow import modules from gists.",
     author = "Salvador de la Puente González",
