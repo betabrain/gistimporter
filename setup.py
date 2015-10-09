@@ -9,7 +9,7 @@ setup(
     author = "Salvador de la Puente González",
     author_email = "salva@unoyunodiez.com",
     url = "https://github.com/lodr/gistimporter",
-    download_url = "https://github.com/lodr/gistimporter/archive/master.zip",
+    download_url = "https://github.com/lodr/gistimporter/tarball/1.0.0",
     keywords = ["gist", "import", "importer", "github"],
     classifiers = [
         "Programming Language :: Python",
@@ -21,7 +21,5 @@ setup(
         "Operating System :: OS Independent",
         "Topic :: Software Development :: Libraries :: Python Modules",
         "Topic :: Utilities"
-        ],
-    long_description = open('./README.txt').read(),
-    license = open('./LICENSE').read()
+    ]
 )
