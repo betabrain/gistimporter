@@ -8,6 +8,7 @@ setup(
     author = "Salvador de la Puente González",
     author_email = "salva@unoyunodiez.com",
     url = "https://github.com/lodr/gistimporter",
+    download_url = "https://github.com/lodr/gistimporter/archive/master.zip",
     keywords = ["gist", "import", "importer", "github"],
     classifiers = [
         "Programming Language :: Python",
