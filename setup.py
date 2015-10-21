@@ -9,8 +9,8 @@ setup(
     description = "An importer for Python 3.x to allow import modules from gists.",
     author = "Salvador de la Puente González",
     author_email = "salva@unoyunodiez.com",
-    url = "https://github.com/lodr/gistimporter",
-    download_url = "https://github.com/lodr/gistimporter/tarball/1.0.0",
+    url = "https://github.com/delapuente/gistimporter",
+    download_url = "https://github.com/delapuente/gistimporter/tarball/1.0.0",
     keywords = ["gist", "import", "importer", "github"],
     classifiers = [
         "Programming Language :: Python",

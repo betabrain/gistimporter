@@ -60,8 +60,8 @@ def addgist(url):
     place. Instead of the complete URL, you can provide just the user and
     gist hash. I.e:
 
-        gist.addgist('https://gist.github.com/lodr/528fca98f42c5236ce1d')
-        gits.addgist('lodr/528fca98f42c5236ce1d')
+        gist.addgist('https://gist.github.com/delapuente/528fca98f42c5236ce1d')
+        gits.addgist('delapuente/528fca98f42c5236ce1d')
 
 
     '''
